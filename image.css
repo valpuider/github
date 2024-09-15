@@ -1,0 +1,99 @@
+body {
+    font-style: normal;
+    color: #000000;
+}
+
+nav div.box {
+    font-size: large;
+    font-style: normal;
+    font-variant: small-caps;
+    background-position: center;
+    border: 1px solid red;
+    border-radius: 8px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+form#singapour {
+    font-family: serif;
+    font-size: large;
+    font: bolder small-caps;
+    background-position: center;
+    border: 3cm solid blue;
+    margin: auto;
+    border-radius: 50rem;
+    padding: 50px;
+    background-color: aqua;
+    text-align: center;
+}
+
+form input {
+    color: rgb(183, 210, 30);
+    padding: 5px;
+    border-radius: 1px;
+}
+
+input#nom {
+    color: rgb(223, 129, 15);
+    padding: 5px;
+    border-bottom: 1px;
+}
+
+input#oo {
+    color: black;
+    padding: 5px;
+}
+
+.rock {
+    text-align: center;
+    background-color: aliceblue;
+    text-align: center;
+    border-radius: 2px;
+    border: 2px solid greenyellow;
+    margin: auto;
+    padding: 7px;
+}
+
+fieldset {
+    background-color: #c20e62d7;
+    font-style: normal;
+    font-weight: 500;
+    font-family: sans-serif;
+    position: inherit;
+    text-align: left;
+    margin: auto;
+    border: 2px solid wheat;
+}
+
+
+/*
+
+nav div .box {
+    font-style: normal;
+    font: center;
+    font-weight: bolder;
+}
+
+form {
+    font-size: medium;
+    font-style: italic;
+    color: blanchedalmond;
+    line-height: 3cm;
+}
+
+input #nom {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    line-height: 3%;
+    color: #232323;
+    background-position: right;
+}
+
+form input {
+    background-color: ;
+    background-position: center;
+    background-size: auto;
+    border: 12%;
+    border-radius: 1%;
+    margin: auto;
+}
